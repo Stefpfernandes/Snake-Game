@@ -1,7 +1,7 @@
 ## Snake Game
 
 ---
-### Curso da DIO
+### Curso da  <a href="https://web.dio.me/lab/recriando-o-jogo-da-cobrinha-com-javascript/learning/a41588bb-45b0-41ce-a7d3-20012199fb11" target="_blank"> DIO </a>
 
 Realizado no dia 10/03/2022
 ---
