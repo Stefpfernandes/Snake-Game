@@ -21,5 +21,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ```
 
 <h4 align="center">
-   Feito  by  <a href="https://www.linkedin.com/in/stefaniepfernandes/" target="_blank"> Stefanie P. Fernandes </a>
+   Feito  by  <a href="https://www.linkedin.com/in/stefaniepfernandes/"  target="_blank"> Stefanie P. Fernandes </a>
+   Professora da Aula <a href="https://www.linkedin.com/in/gabrielapinheiro129/" target="_blank"> Gabriela Pinheiro </a>
 </h4>
