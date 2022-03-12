@@ -7,4 +7,5 @@ body{
     flex-direction: column;
     color: rgb(0, 199, 50);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgba(53, 52, 52, 0.856);
 }
